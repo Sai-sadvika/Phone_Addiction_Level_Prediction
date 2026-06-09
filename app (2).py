@@ -8,7 +8,7 @@ import joblib
 # =========================================================
 
 model = joblib.load(
-    r"C:\Users\velis\OneDrive\Desktop\MLProject\mlruns\9\models\m-a0af478a75104a4880ff5307488d8ff4\artifacts\model.pkl"
+    r"model.pkl"
 )
 
 # =========================================================
